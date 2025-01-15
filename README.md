@@ -8,7 +8,7 @@ Analysis of Wealth and Money terms in the Bible
 * This is then aggregated by book and visualized
 
 ## Initial Output
-<img src="outputs/money-in-bible.png" alt="money-in-bible" width="250"/>
+<img src="outputs/money-in-bible.png" alt="money-in-bible" width="350"/>
 
 ## Future ideas
 * Use Natural Language Processing to capture which verses / passages speak about money-related themes instead of exact words / phrases
